@@ -1,9 +1,0 @@
-
-
-# Redirecciones para distintas pantallas
-/index    /index.html    200
-/add-products.html    /add-products.html     200
-/edit-product.html   /edit-product.html   200
-/login.html   /login.html   200
-/producto.html    /producto.html     200
-
