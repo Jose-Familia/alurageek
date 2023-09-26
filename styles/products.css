@@ -1,0 +1,83 @@
+.general-products {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.products_title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px 150px 0px 150px;
+  font-size: 32px;
+  font-weight: bold;
+  /* padding: 30px; */
+  color: #464646;
+} 
+
+.product-button {
+  background-color: var(--azul-destaque);
+  border: none;
+  color: var(--texto-destaque);
+  height: 51px;
+  width: 180px;
+} 
+
+.products-section {
+  height: 100%;
+	padding: 0px 150px 0px 150px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+.producto {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 32px;
+} 
+
+.precio {
+  color: #464646;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+img {
+  width: 176px;
+  height: 174px;
+} 
+
+.container {
+  position: relative;
+}
+
+.container .editImage {
+  position: absolute;
+  top: 30px;
+  right: 15px;
+}
+.container .deleteImage {
+  position: absolute;
+  top: 30px;
+  right: 50px;
+}
+
+.editImage,
+.deleteImage {
+  width: 24px;
+  height: 24px;
+}
+
+.buttonDelete,
+.buttonEdit {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+h1,
+p {
+  margin: 8px 0px 8px 0px;
+}

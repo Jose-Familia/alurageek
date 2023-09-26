@@ -1,0 +1,126 @@
+{
+  "producto": [
+    {
+      "name": "Alura Latam",
+      "imageUrl": "https://avatars.githubusercontent.com/u/4975968?s=280&v=4",
+      "price": "165846.9",
+      "id": 1,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": ""
+    },
+    {
+      "name": "One",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlpa9JUDglJ_p5ecd3wZYJ6oNVkH-5dA-lS9zUZ0wyMvheUBgXnbKWhw44XtV1eYDUQjo&usqp=CAU",
+      "price": "100.00",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 4
+    },
+    {
+      "name": "Alura latam",
+      "imageUrl": "https://avatars.githubusercontent.com/u/4975968?s=280&v=4",
+      "price": "5",
+      "id": 6,
+      "description": ""
+    },
+    {
+      "name": "Flash",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp",
+      "price": "16845",
+      "id": 7,
+      "description": "Funko Flash"
+    },
+    {
+      "name": "Capitán America",
+      "imageUrl": "https://m.media-amazon.com/images/I/51aqEMfw9KL._AC_SY879_.jpg",
+      "price": "1652",
+      "id": 8,
+      "description": "Apenas um teste!"
+    },
+    {
+      "name": "Super Man",
+      "imageUrl": "https://juguetesdecoleccion.com/wp-content/uploads/muneco-superman-funko-pop.jpg",
+      "price": "20",
+      "id": 14
+    },
+    {
+      "name": "Darth Vader",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_975969-MLA46467090682_062021-O.webp",
+      "price": "25",
+      "id": 15
+    },
+    {
+      "name": "Flash",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp",
+      "price": "25,99",
+      "id": 16,
+      "description": "25"
+    },
+    {
+      "name": "Batman",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_640262-MCO47330060660_092021-O.webp",
+      "price": "60",
+      "id": 17
+    },
+    {
+      "name": "Hulk",
+      "imageUrl": "https://m.media-amazon.com/images/I/516X0YLRV+L._AC_SY879_.jpg",
+      "price": "30",
+      "id": 18
+    },
+    {
+      "name": "Hombre araña",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_620343-MLA45333647274_032021-O.webp",
+      "price": "50",
+      "id": 19
+    },
+    {
+      "name": "Capitán America",
+      "imageUrl": "https://m.media-amazon.com/images/I/51aqEMfw9KL._AC_SY879_.jpg",
+      "price": "50",
+      "id": 20
+    },
+    {
+      "name": "Super Man",
+      "imageUrl": "https://juguetesdecoleccion.com/wp-content/uploads/muneco-superman-funko-pop.jpg",
+      "price": "80",
+      "id": 21
+    },
+    {
+      "name": "Flash",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp",
+      "price": "85",
+      "id": 22
+    },
+    {
+      "name": "Batman 2",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_640262-MCO47330060660_092021-O.webp",
+      "price": "60",
+      "id": 23
+    },
+    {
+      "name": "Soy Geek",
+      "imageUrl": "https://img.freepik.com/vetores-gratis/conjunto-de-estilo-geek_1284-4509.jpg?w=2000",
+      "price": "16",
+      "id": 26
+    },
+    {
+      "name": "Harry Potter",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0710/7313/6924/products/c86d341ccff6eb42ff7dfd2bcb0b93c7.png?v=1675099691&width=600",
+      "price": "6546",
+      "id": 28
+    },
+    {
+      "name": "Mandalorian",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0710/7313/6924/products/59a75cd9541f41710318efcb6c9ff2d7.png?v=1675130311&width=600",
+      "price": "1654",
+      "id": 29
+    },
+    {
+      "name": "Salsicha",
+      "imageUrl": "https://images.tcdn.com.br/img/img_prod/846162/funko_pop_salsicha_911_1857_1_028e22c5e310ba4469afcdbc0ab71c4d.jpg",
+      "price": "18646.8",
+      "id": 30
+    }
+  ]
+}
