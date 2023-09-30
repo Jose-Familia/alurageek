@@ -11,7 +11,7 @@ const getProducts = (name, price, imageUrl, id) => {
               <img class="deleteImage" src="../assets/delete.png" alt="Deletar" />
             </button>
             
-            <a href="../screens/edit-product.html?id=${id}">
+            <a href="edit-product.html?id=${id}">
             
               <button class="buttonEdit" type="button">
                 <img class="editImage" src="../assets/edit.png" alt="Editar" />
